@@ -14,5 +14,5 @@ Welcome! This repo is my personal Python learning playground 🧠🐍. I'm build
 - VS codes
 ### 🚀 About Me
 
-I'm Amritpal Singh, a self-taught Python learner aiming to become one of the world's most powerful programmers. Stick around — it's gonna be a wild ride. 🌍💻⚡
+I'm Amritpal Singh, a self-taught Python learner aiming to become one of the world's most powerful programmers. Stick around it's gonna be a wild ride. 🌍💻⚡
 
